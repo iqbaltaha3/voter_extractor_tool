@@ -1,4 +1,4 @@
-# Voter Extraction Tool
+# Voter Extractor Tool
 
 A modular, production‑ready tool to extract voter information from electoral roll PDFs. It converts PDF pages to images, performs OCR (Hindi + English), parses voter records, and outputs clean CSV files. The tool also supports merging all CSVs into a master file and transliterating Hindi fields to English (ITRANS).
 
