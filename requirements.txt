@@ -1,0 +1,7 @@
+pdf2image
+pytesseract
+opencv-python
+numpy
+pandas
+indic-transliteration
+pyyaml
